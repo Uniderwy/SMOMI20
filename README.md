@@ -9,10 +9,10 @@
 
 Графики функции потерь:
 
-!(https://github.com/uniderwy/SMOMI20/raw/master/epoch_acc.jpg)
-!(https://github.com/uniderwy/SMOMI20/raw/master/epoch_loss.jpg)
+![](https://github.com/uniderwy/SMOMI20/raw/master/epoch_acc.jpg)
+![](https://github.com/uniderwy/SMOMI20/raw/master/epoch_loss.jpg)
 
 Графики метрики точности:
 
-!(https://github.com/uniderwy/SMOMI20/raw/master/epoch_val_acc.jpg)
-!(https://github.com/uniderwy/SMOMI20/raw/master/epoch_val_loss.jpg)
+![](https://github.com/uniderwy/SMOMI20/raw/master/epoch_val_acc.jpg)
+![](https://github.com/uniderwy/SMOMI20/raw/master/epoch_val_loss.jpg)
