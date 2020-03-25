@@ -8,9 +8,9 @@
 Для получения графиков был использован Tensorboard.
 
 Графики функции потерь:
-(https://github.com/uniderwy/SMOMI20/raw/master/image/epoch_acc.jpg)
-(https://github.com/uniderwy/SMOMI20/raw/master/image/epoch_loss.jpg)
+!(https://github.com/uniderwy/SMOMI20/raw/master/image/epoch_acc.jpg)
+!(https://github.com/uniderwy/SMOMI20/raw/master/image/epoch_loss.jpg)
 
 Графики метрики точности:
-(https://github.com/uniderwy/SMOMI20/raw/master/image/epoch_val_acc.jpg)
-(https://github.com/uniderwy/SMOMI20/raw/master/image/epoch_val_loss.jpg)
+!(https://github.com/uniderwy/SMOMI20/raw/master/image/epoch_val_acc.jpg)
+![](https://github.com/uniderwy/SMOMI20/raw/master/image/epoch_val_loss.jpg)
