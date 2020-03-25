@@ -13,4 +13,4 @@
 
 Графики метрики точности:
 !(https://github.com/uniderwy/SMOMI20/raw/master/image/epoch_val_acc.jpg)
-![](https://github.com/uniderwy/SMOMI20/raw/master/image/epoch_val_loss.jpg)
+![Image alt](https://github.com/uniderwy/SMOMI20/raw/master/image/epoch_val_loss.jpg)
