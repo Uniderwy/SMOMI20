@@ -8,7 +8,7 @@
 Для получения графиков был использован Tensorboard.
 
 Графики функции потерь:
-!(https://github.com/uniderwy/SMOMI20/raw/master/image/epoch_acc.jpg)
+!(https://github.com/uniderwy/SMOMI20/raw/master/epoch_acc.jpg)
 !(https://github.com/uniderwy/SMOMI20/raw/master/image/epoch_loss.jpg)
 
 Графики метрики точности:
